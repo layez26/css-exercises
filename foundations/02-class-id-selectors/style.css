@@ -1,0 +1,20 @@
+.same {
+    background-color: rgb(248, 142, 142);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#two {
+    color: rgb(0, 0, 250)
+    ;
+    font-size: 36px;
+}
+
+.same.cooler {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(168, 221, 168);
+    font-size: 24px;
+    font-weight: bold;
+}
